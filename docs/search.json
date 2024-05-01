@@ -39,7 +39,14 @@
     "href": "index.html#weekly-schedule",
     "title": "STA 326 2.0/ ASP 454 2.0/ CSC 381 2.0 Programming and Data Analysis with R",
     "section": "Weekly schedule",
-    "text": "Weekly schedule\n\n\n\n\n\nWeek No.\nDate\nTopic\nCheatsheet\nReading\nExercise\n\n\n\n\n1\nApril 25, 2024\nIntroduction to R Programming\ncheatsheet\nReading 2.1, 2.2, 5.1\nExercise 1.8"
+    "text": "Weekly schedule\n\n\n\n\n\nWeek No.\nDate\nTopic\nCheatsheet\nReading\nExercise\n\n\n\n\n1\nApril 25, 2024\nIntroduction to R Programming\ncheatsheet\nReading 2.1, 2.2, 5.1\nExercise 1.8\n\n\n2\nMay 2, 2024\nData Structures in R\n\nTo be added\nTo be added"
+  },
+  {
+    "objectID": "index.html#video-links",
+    "href": "index.html#video-links",
+    "title": "STA 326 2.0/ ASP 454 2.0/ CSC 381 2.0 Programming and Data Analysis with R",
+    "section": "Video Links",
+    "text": "Video Links\nInstalling R\nInstalling RStudio"
   },
   {
     "objectID": "about.html",

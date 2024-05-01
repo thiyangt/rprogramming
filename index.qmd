@@ -18,18 +18,25 @@ To access important information regarding the unit, please go to the course Lear
 
 Available on LMS
 
+
 ## Weekly schedule
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(tidyverse)
-wkno <- c(1)
-date <- c("April 25, 2024")
-Topic <- c("[Introduction to R Programming](https://hellor.netlify.app/2021/week1/l12021#1)")
-reading <- c("[Reading 2.1, 2.2, 5.1](https://rstudio-education.github.io/hopr/basics.html)")
-cheatsheet <- c("[cheatsheet](https://hellor.netlify.app/cheatsheets/baser.pdf)")
-exercise <- c("[Exercise 1.8]( https://thiyangt.github.io/rbook/intro.html)")
+wkno <- c(1, 2)
+date <- c("April 25, 2024", "May 2, 2024")
+Topic <- c("[Introduction to R Programming](https://hellor.netlify.app/2021/week1/l12021#1)", "[Data Structures in R](https://hellor.netlify.app/slides/l22021#1)")
+reading <- c("[Reading 2.1, 2.2, 5.1](https://rstudio-education.github.io/hopr/basics.html)", "To be added")
+cheatsheet <- c("[cheatsheet](https://hellor.netlify.app/cheatsheets/baser.pdf)", "")
+exercise <- c("[Exercise 1.8]( https://thiyangt.github.io/rbook/intro.html)", "To be added")
 df <- tibble(wkno, date, Topic, cheatsheet,reading, exercise)
 colnames(df) <- c("Week No.", "Date", "Topic", "Cheatsheet", "Reading", "Exercise"
                   )
 df |> knitr::kable()
 ```
+
+## Video Links
+
+[Installing R](https://www.youtube.com/watch?v=aRwxsAEoRzs&list=PL7Bw8wPdOZXlEVRbvYmP59SapfjfOy5pS&index=1)
+
+[Installing RStudio](https://www.youtube.com/watch?v=Q1NRj2Dzdn0&t=18s)
