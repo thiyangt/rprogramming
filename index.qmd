@@ -18,13 +18,12 @@ To access important information regarding the unit, please go to the course Lear
 
 Available on LMS
 
-
 ## Weekly schedule
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(tidyverse)
 wkno <- c(1, 2)
-date <- c("April 25, 2024", "May 2, 2024")
+date <- c("April 25, 2024", "May 16, 2024")
 Topic <- c("[Introduction to R Programming](https://hellor.netlify.app/2021/week1/l12021#1)", "[Data Structures in R](https://hellor.netlify.app/slides/l22021#1)")
 reading <- c("[Reading 2.1, 2.2, 5.1](https://rstudio-education.github.io/hopr/basics.html)", "To be added")
 cheatsheet <- c("[cheatsheet](https://hellor.netlify.app/cheatsheets/baser.pdf)", "")
