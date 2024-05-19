@@ -35,11 +35,25 @@
     "text": "Course outline\nAvailable on LMS"
   },
   {
-    "objectID": "index.html#weekly-schedule",
-    "href": "index.html#weekly-schedule",
+    "objectID": "index.html#google-classroom",
+    "href": "index.html#google-classroom",
     "title": "STA 326 2.0/ ASP 454 2.0/ CSC 381 2.0 Programming and Data Analysis with R",
-    "section": "Weekly schedule",
-    "text": "Weekly schedule\n\n\n\n\n\nWeek No.\nDate\nTopic\nCheatsheet\nReading\nExercise\n\n\n\n\n1\nApril 25, 2024\nIntroduction to R Programming\ncheatsheet\nReading 2.1, 2.2, 5.1\nExercise 1.8\n\n\n2\nMay 16, 2024\nData Structures in R\n\nTo be added\nTo be added"
+    "section": "Google Classroom",
+    "text": "Google Classroom\nI also opened a Google Classroom as a backup strategy in case the LMS failed. Kindly ensure that you join it. The password is available on LMS under announcements."
+  },
+  {
+    "objectID": "index.html#weekly-schedule-lectures",
+    "href": "index.html#weekly-schedule-lectures",
+    "title": "STA 326 2.0/ ASP 454 2.0/ CSC 381 2.0 Programming and Data Analysis with R",
+    "section": "Weekly schedule: Lectures 👩‍🏫",
+    "text": "Weekly schedule: Lectures 👩‍🏫\n\n\n\n\n\nWeek No.\nDate\nTopic\nCheatsheet\nReading\nExercise\n\n\n\n\n1\nApril 25, 2024\nIntroduction to R Programming\ncheatsheet\nReading 2.1, 2.2, 5.1\nExercise 1.8\n\n\n2\nMay 16, 2024\nData Structures in R\n\nSections 2.1-2.5\nExercise 2.6"
+  },
+  {
+    "objectID": "index.html#weekly-schedule-computer-practical",
+    "href": "index.html#weekly-schedule-computer-practical",
+    "title": "STA 326 2.0/ ASP 454 2.0/ CSC 381 2.0 Programming and Data Analysis with R",
+    "section": "Weekly schedule: Computer Practical 🖥️",
+    "text": "Weekly schedule: Computer Practical 🖥️\n\nMonday, 8am - 9.45am\nMonday, 3pm - 5pm\n\n\n\n\n\n\nWeek No.\nDate\nExercise\n\n\n\n\n1\nApril 29, 2024\nExercise 1.12\n\n\n2\nMay 19, 2024\nExercise 2.6"
   },
   {
     "objectID": "index.html#video-links",
@@ -47,12 +61,5 @@
     "title": "STA 326 2.0/ ASP 454 2.0/ CSC 381 2.0 Programming and Data Analysis with R",
     "section": "Video Links",
     "text": "Video Links\nInstalling R\nInstalling RStudio"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

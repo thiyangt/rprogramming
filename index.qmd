@@ -18,20 +18,40 @@ To access important information regarding the unit, please go to the course Lear
 
 Available on LMS
 
-## Weekly schedule
+## Google Classroom
+
+I also opened a Google Classroom as a backup strategy in case the LMS failed. Kindly ensure that you join it. The password is available on LMS under announcements.
+
+## Weekly schedule: Lectures 👩‍🏫
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(tidyverse)
 wkno <- c(1, 2)
 date <- c("April 25, 2024", "May 16, 2024")
 Topic <- c("[Introduction to R Programming](https://hellor.netlify.app/2021/week1/l12021#1)", "[Data Structures in R](https://hellor.netlify.app/slides/l22021#1)")
-reading <- c("[Reading 2.1, 2.2, 5.1](https://rstudio-education.github.io/hopr/basics.html)", "To be added")
+reading <- c("[Reading 2.1, 2.2, 5.1](https://rstudio-education.github.io/hopr/basics.html)", "[Sections 2.1-2.5](https://thiyangt.github.io/rbook/chap2.html)")
 cheatsheet <- c("[cheatsheet](https://hellor.netlify.app/cheatsheets/baser.pdf)", "")
-exercise <- c("[Exercise 1.8]( https://thiyangt.github.io/rbook/intro.html)", "To be added")
+exercise <- c("[Exercise 1.8]( https://thiyangt.github.io/rbook/intro.html)", "Exercise 2.6")
 df <- tibble(wkno, date, Topic, cheatsheet,reading, exercise)
 colnames(df) <- c("Week No.", "Date", "Topic", "Cheatsheet", "Reading", "Exercise"
                   )
 df |> knitr::kable()
+```
+
+## Weekly schedule: Computer Practical 🖥️
+
+-   Monday, 8am - 9.45am
+
+-   Monday, 3pm - 5pm
+
+```{r, echo=FALSE}
+wkno <- c(1, 2)
+date <- c("April 29, 2024", "May 19, 2024")
+Exercise <- c("[Exercise 1.12](https://thiyangt.github.io/rbook/intro.html)", "[Exercise 2.6](https://thiyangt.github.io/rbook/chap2.html)")
+dfp <- data.frame(wkno, date, Exercise)
+colnames(dfp) <- c("Week No.", "Date", "Exercise")
+dfp |> knitr::kable()
+
 ```
 
 ## Video Links
