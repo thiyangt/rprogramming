@@ -46,7 +46,7 @@ df |> knitr::kable()
 
 ```{r, echo=FALSE}
 wkno <- c(1, 2)
-date <- c("April 29, 2024", "May 19, 2024")
+date <- c("April 29, 2024", "May 20, 2024")
 Exercise <- c("[Exercise 1.12](https://thiyangt.github.io/rbook/intro.html)", "[Exercise 2.6](https://thiyangt.github.io/rbook/chap2.html)")
 dfp <- data.frame(wkno, date, Exercise)
 colnames(dfp) <- c("Week No.", "Date", "Exercise")
