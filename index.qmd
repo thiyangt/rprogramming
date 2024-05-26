@@ -45,9 +45,9 @@ df |> knitr::kable()
 -   Monday, 3pm - 5pm
 
 ```{r, echo=FALSE}
-wkno <- c(1, 2)
-date <- c("April 29, 2024", "May 20, 2024")
-Exercise <- c("[Exercise 1.12](https://thiyangt.github.io/rbook/intro.html)", "[Exercise 2.6](https://thiyangt.github.io/rbook/chap2.html)")
+wkno <- c(1, 2, 3)
+date <- c("April 29, 2024", "May 20, 2024", "May 27, 2024")
+Exercise <- c("[Exercise 1.12](https://thiyangt.github.io/rbook/intro.html)", "[Exercise 2.6](https://thiyangt.github.io/rbook/chap2.html)", "[Exercise 2.10 and 2.12](https://thiyangt.github.io/rbook/chap2.html)")
 dfp <- data.frame(wkno, date, Exercise)
 colnames(dfp) <- c("Week No.", "Date", "Exercise")
 dfp |> knitr::kable()
