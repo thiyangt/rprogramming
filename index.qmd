@@ -26,12 +26,12 @@ I also opened a Google Classroom as a backup strategy in case the LMS failed. Ki
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(tidyverse)
-wkno <- c(1, 2, 3, 4)
-date <- c("April 25, 2024", "May 16, 2024", "May 30, 2024","June 6, 2024")
-Topic <- c("[Introduction to R Programming](https://hellor.netlify.app/2021/week1/l12021#1)", "[Data Structures in R](https://hellor.netlify.app/slides/l22021#1)", "[Built-in functions in R: Anatomy](https://hellor2023.netlify.app/slides/l32021#1)", "[Working with built-in functions in R](https://hellor2023.netlify.app/slides/l42022#1)")
-reading <- c("[Reading 2.1, 2.2, 5.1](https://rstudio-education.github.io/hopr/basics.html)", "[Sections 2.1-2.5](https://thiyangt.github.io/rbook/chap2.html)", "", "")
-cheatsheet <- c("[cheatsheet](https://hellor.netlify.app/cheatsheets/baser.pdf)", "", "", "")
-exercise <- c("[Exercise 1.8]( https://thiyangt.github.io/rbook/intro.html)", "Exercise 2.6", "", "")
+wkno <- c(1, 2, 3, 4, 5)
+date <- c("April 25, 2024", "May 16, 2024", "May 30, 2024","June 6, 2024", "June 13, 2024")
+Topic <- c("[Introduction to R Programming](https://hellor.netlify.app/2021/week1/l12021#1)", "[Data Structures in R](https://hellor.netlify.app/slides/l22021#1)", "[Built-in functions in R: Anatomy](https://hellor2023.netlify.app/slides/l32021#1)", "[Working with built-in functions in R](https://hellor2023.netlify.app/slides/l42022#1)", "[User-defined functions](https://hellor.netlify.app/slides/l52021#1)")
+reading <- c("[Reading 2.1, 2.2, 5.1](https://rstudio-education.github.io/hopr/basics.html)", "[Sections 2.1-2.5](https://thiyangt.github.io/rbook/chap2.html)", "", "", "[Chapter 19](https://r4ds.had.co.nz/functions.html)")
+cheatsheet <- c("[cheatsheet](https://hellor.netlify.app/cheatsheets/baser.pdf)", "", "", "", "")
+exercise <- c("[Exercise 1.8]( https://thiyangt.github.io/rbook/intro.html)", "Exercise 2.6", "", "", "See slides")
 df <- tibble(wkno, date, Topic, cheatsheet,reading, exercise)
 colnames(df) <- c("Week No.", "Date", "Topic", "Cheatsheet", "Reading", "Exercise"
                   )
