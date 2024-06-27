@@ -46,14 +46,14 @@
     "href": "index.html#weekly-schedule-lectures",
     "title": "STA 326 2.0/ ASP 454 2.0/ CSC 381 2.0 Programming and Data Analysis with R",
     "section": "Weekly schedule: Lectures 👩‍🏫",
-    "text": "Weekly schedule: Lectures 👩‍🏫\n\n\n\n\n\nWeek No.\nDate\nTopic\nCheatsheet\nReading\nExercise\n\n\n\n\n1\nApril 25, 2024\nIntroduction to R Programming\ncheatsheet\nReading 2.1, 2.2, 5.1\nExercise 1.8\n\n\n2\nMay 16, 2024\nData Structures in R\n\nSections 2.1-2.5\nExercise 2.6\n\n\n3\nMay 30, 2024\nBuilt-in functions in R: Anatomy\n\n\n\n\n\n4\nJune 6, 2024\nWorking with built-in functions in R\n\n\n\n\n\n5\nJune 13, 2024\nUser-defined functions\n\nChapter 19\nSee slides"
+    "text": "Weekly schedule: Lectures 👩‍🏫\n\n\n\n\n\nWeek No.\nDate\nTopic\nCheatsheet\nReading\nExercise\n\n\n\n\n1\nApril 25, 2024\nIntroduction to R Programming\ncheatsheet\nReading 2.1, 2.2, 5.1\nExercise 1.8\n\n\n2\nMay 16, 2024\nData Structures in R: Vector creation\n\nSections 2.1-2.5\nExercise 2.6\n\n\n3\nMay 30, 2024\nBuilt-in functions in R: Anatomy\n\n\n\n\n\n4\nJune 6, 2024\nWorking with built-in functions in R\n\n\n\n\n\n5\nJune 13, 2024\nData Visualisation with qplot\n\nChapter 19\nSee slides\n\n\n6\nJune 14, 2024\nUser-defined functions\n\n\nSee slides\n\n\n7/8\nJune 20, 2024/ June 27, 2024\nControl Structures\n\n\nSee slides"
   },
   {
     "objectID": "index.html#weekly-schedule-computer-practical",
     "href": "index.html#weekly-schedule-computer-practical",
     "title": "STA 326 2.0/ ASP 454 2.0/ CSC 381 2.0 Programming and Data Analysis with R",
     "section": "Weekly schedule: Computer Practical 🖥️",
-    "text": "Weekly schedule: Computer Practical 🖥️\n\nMonday, 8am - 9.45am\nMonday, 3pm - 5pm\n\n\n\n\n\n\nWeek No.\nDate\nExercise\n\n\n\n\n1\nApril 29, 2024\nExercise 1.12\n\n\n2\nMay 20, 2024\nExercise 2.6\n\n\n3\nMay 27, 2024\nExercise 2.10 and 2.12"
+    "text": "Weekly schedule: Computer Practical 🖥️\n\nMonday, 8am - 9.45am\nMonday, 3pm - 5pm\n\n\n\n\n\n\nWeek No.\nDate\nExercise\n\n\n\n\n1\nApril 29, 2024\nExercise 1.12\n\n\n2\nMay 20, 2024\nExercise 2.6\n\n\n3\nMay 27, 2024\nExercise 2.10 and 2.12\n\n\n4\nJune 4, 2024\nExercise 2.14 and Exercise 2.16\n\n\n5\nJune 10, 2024\nQ2-Q6\n\n\n6\nJune 24, 2024\nPerform EDA on iris data sets and complete exercises in user-defined functions slide set"
   },
   {
     "objectID": "index.html#video-links",
