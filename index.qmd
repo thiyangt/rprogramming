@@ -43,6 +43,14 @@ colnames(df) <- c("Week No.", "Date", "Topic", "Cheatsheet", "Reading", "Exercis
 df |> knitr::kable()
 ```
 
+## Mid-Semester Examination: Individual Assignment
+
+Released on: July 27, 2024
+
+Submission deadline: August 2, 2024: before 8.00AM
+
+Please check 2024 Google Classroom or the LMS to view your assignment. All assignment updates will be posted on 2024 Google Classroom.
+
 ## Weekly schedule: Computer Practical 🖥️
 
 -   Monday, 8am - 9.45am

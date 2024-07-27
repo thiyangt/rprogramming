@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://thiyangt.github.io/rprogramming/rmarkdown/Rmarkdown_practical_lesson.html</loc>
-    <lastmod>2024-07-04T06:37:13.795Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thiyangt.github.io/rprogramming/index.html</loc>
-    <lastmod>2024-07-25T02:26:32.880Z</lastmod>
-  </url>
-  <url>
     <loc>https://thiyangt.github.io/rprogramming/about.html</loc>
-    <lastmod>2024-05-19T08:12:16.253Z</lastmod>
+    <lastmod>2024-07-27T07:21:20.153Z</lastmod>
   </url>
   <url>
     <loc>https://thiyangt.github.io/rprogramming/rmarkdown/lesson2.html</loc>
-    <lastmod>2024-07-11T08:22:59.788Z</lastmod>
+    <lastmod>2024-07-27T07:21:17.722Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thiyangt.github.io/rprogramming/rmarkdown/Rmarkdown_practical_lesson.html</loc>
+    <lastmod>2024-07-27T07:21:14.199Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thiyangt.github.io/rprogramming/index.html</loc>
+    <lastmod>2024-07-27T07:21:19.785Z</lastmod>
   </url>
 </urlset>
